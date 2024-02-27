@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/DancingScript-VariableFont_wght.ttf",
+      "sha1": "80f13e7575ec59a51b7fdc42bb0b9d7a34439123"
+    },
+    {
+      "path": "src/assets/fonts/LeckerliOne-Regular.ttf",
+      "sha1": "c795150d84e3dec5bd65b83989114a4b72085b48"
+    },
+    {
+      "path": "src/assets/fonts/Whisper-Regular.ttf",
+      "sha1": "959248c76a0df620932762d54b65eaffb1db5196"
+    }
+  ]
+}
